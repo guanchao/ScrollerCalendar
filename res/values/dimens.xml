@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+        
+	<dimen name="year_header_text_height">40dp</dimen>
+	<dimen name="year_header_text_size">34sp</dimen>
+    <dimen name="year_header_lunar_text_size">12sp</dimen>
+    <dimen name="month_label_text_size">16sp</dimen>
+    <dimen name="month_label_text_height">35dp</dimen>
+    <dimen name="day_label_text_size">10sp</dimen>
+    <dimen name="day_label_circle_radius">8dp</dimen>
+    <dimen name="month_day_row_height">145dp</dimen>
+    <dimen name="padding_between_day_and_day">20dp</dimen>
+
+</resources>

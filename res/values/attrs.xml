@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScrollerCalendar">
+        <attr name="dividerColor" format="color"/>
+        
+        <attr name="yearHeaderTextColor" format="color" />
+        <attr name="yearHeaderTextHeight" format="dimension"/>
+        <attr name="yearHeaderTextSize" format="dimension"/>
+
+        <attr name="yearHeaderLunarTextColor" format="color"/>
+        <attr name="yearHeaderLunarTextHeight" format="dimension"/>
+        <attr name="yearHeaderLunarTextSize" format="dimension"/>
+        
+        <attr name="yearHeaderDashColor" format="color"/>
+        
+        <attr name="monthLabelTextColor" format="color"/>
+        <attr name="monthLabelTextSize" format="dimension"/>
+        <attr name="monthLabelTextHeight" format="dimension"/>
+        
+        <attr name="dayLabelTextColor" format="color"/>
+        <attr name="dayLabelTextTodayColor" format="color"/>
+        <attr name="dayLabelTextSize" format="dimension"/>
+        
+        <attr name="dayLabelCircleBgColor" format="color"/>
+        
+        <attr name="dayLabelCircleRadius" format="dimension"/>
+        
+        <attr name="monthDayRowHeight" format="dimension"/>
+        
+        <attr name="showYearLunarLabel" format="boolean"/>
+        
+    </declare-styleable>
+
+</resources>
