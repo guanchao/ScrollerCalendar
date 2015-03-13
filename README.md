@@ -1,7 +1,8 @@
 # ScrollerCalendar
 ScrollerCalendar provides straightforward wayt to see calendar for Android 4.0+.
-![image](https://github.com/guanchao/ScrollerCalendar/raw/master/images/sample.gif)
+![image](https://github.com/guanchao/ScrollerCalendar/raw/master/images/sample1.gif)
 
+![image](https://github.com/guanchao/ScrollerCalendar/raw/master/images/sample2.gif)
 ## Usage
 Declare a ScrollerCalendar inside your layout XML file:
 ```Java
@@ -48,7 +49,7 @@ Thanks to RobinChutaux for his [CalendarListview](https://github.com/traex/Calen
 ### MIT License
 The MIT License (MIT)
 
-    Copyright (c) 2014 guanchao wen
+    Copyright (c) 2015 guanchao wen
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
