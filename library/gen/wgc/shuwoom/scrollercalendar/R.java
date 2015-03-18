@@ -188,8 +188,6 @@ containing a value of this type.
         public static final int month_labe_text_color=0x7f040004;
         public static final int year_header_dash_color=0x7f040003;
         public static final int year_header_lunar_text_color=0x7f040002;
-        /**  年历界面参数相关 
-         */
         public static final int year_header_text_color=0x7f040000;
     }
     public static final class dimen {
@@ -209,8 +207,6 @@ containing a value of this type.
         public static final int month_label_text_size=0x7f050005;
         public static final int padding_between_day_and_day=0x7f05000a;
         public static final int year_header_lunar_text_size=0x7f050004;
-        /**  年历界面相关参数 
-         */
         public static final int year_header_text_height=0x7f050002;
         public static final int year_header_text_size=0x7f050003;
     }

@@ -45,7 +45,7 @@ import android.view.WindowManager;
 
 import wgc.shuwoom.scrollercalendar.R;
 import wgc.shuwoom.scrollercalendar.CommonUtils;
-import wgc.shuwoom.scrollercalendar.Lunar;
+import wgc.shuwoom.scrollercalendar.LunarYear;
 
 
 public class YearView extends View {
@@ -187,7 +187,7 @@ public class YearView extends View {
 
 	private void drawYearHeaderLabels(Canvas canvas) {
 		int y = (4 * YEAR_HEADER_TEXT_HEIGHT) / 5;
-		Lunar lunar = new Lunar(year);
+		LunarYear lunar = new LunarYear(year);
 
 		canvas.drawText(year + "年", 2 * padding, y, yearHeaderTextPaint);
 
